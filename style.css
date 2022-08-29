@@ -3,6 +3,19 @@ header{
     text-align: center;
     border-bottom: 2px solid orange;
 }
+
 .avatar{
     width: 150px;
+}
+
+h2{
+    color: orange;
+}
+
+h3{
+    font-style: italic;
+}
+
+footer{
+    border-top: 2px solid orange;
 }
